@@ -5,7 +5,7 @@
 <section id="home" class="flex min-h-[80vh] items-center justify-center px-4 py-20">
 	<div class="text-center" in:fade>
 		<h1 class="gradient-text mb-6 text-6xl font-bold sm:text-7xl md:text-8xl" in:fly={{ y: 50, duration: 1000 }}>James LaFarr</h1>
-		<p class="text-xl text-muted-foreground" in:fly={{ y: 50, duration: 1000, delay: 200 }}>Full Stack Developer</p>
+		<p class="text-xl text-muted-foreground" in:fly={{ y: 50, duration: 1000, delay: 200 }}>Software Engineer</p>
 	</div>
 </section>
 
