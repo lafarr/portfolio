@@ -43,7 +43,7 @@
 <section id="projects" class="px-4 py-20">
   <div class="mx-auto max-w-7xl">
     <h2 class="mb-12 text-center text-4xl font-bold text-white">
-      Recent Projects
+      Recent Work
     </h2>
     <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {#each projects as project}
