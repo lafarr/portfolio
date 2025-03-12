@@ -21,21 +21,21 @@
 
   const projects: Project[] = [
     {
+      title: "hierarchy.nvim",
+      description: "A plugin for Neovim, which recursively displays the call stack; based on the call hierachy functionality in VS Code.",
+      tech: ["Lua"],
+      github: "https://github.com/lafarr/hierarchy.nvim",
+      image: "https://cdn.pixabay.com/photo/2017/05/12/15/16/hexagon-2307350_960_720.png",
+    },
+    {
       title: "Metroland Events Calendars",
       description:
-        "A collection of calendars for events in the Capital Region, NY area. Built for Metroland Now",
+        "A collection of calendars for events in the Capital Region, NY area. Built for Metroland Now.",
       tech: ["Next.js", "TailwindCSS", "C#/ASP.NET", "MongoDB"],
       github: "https://github.com/lafarr/metroland-calendars",
       live: "http://3.147.94.95:3000/music-calendar",
       image:
         "https://cdn.pixabay.com/photo/2016/07/31/20/54/calendar-1559935_960_720.png",
-    },
-    {
-      title: "Project Two",
-      description: "Mobile-first responsive website with smooth animations.",
-      tech: ["Svelte", "TailwindCSS"],
-      github: "https://github.com",
-      image: "https://svelte0.dev/images/ui-placeholder.png",
     },
   ];
 </script>
