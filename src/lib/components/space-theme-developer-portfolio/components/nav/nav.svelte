@@ -14,9 +14,11 @@
 		<ul class="flex items-center gap-1">
 			{#each navItems as item}
 				<li>
-					<Button variant="ghost">
-						<a class="text-white" href={item.href}>{item.label}</a>
-					</Button>
+					<a href={item.href}>
+						<Button variant="ghost" class="text-white">
+							{item.label}
+						</Button>
+					</a>
 				</li>
 			{/each}
 		</ul>
