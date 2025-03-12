@@ -23,7 +23,7 @@
     {
       title: "Metroland Events Calendars",
       description:
-        "A collection of calendars for events Capital Region, NY area. Built for Metroland Now",
+        "A collection of calendars for events in the Capital Region, NY area. Built for Metroland Now",
       tech: ["Next.js", "TailwindCSS", "C#/ASP.NET", "MongoDB"],
       github: "https://github.com/lafarr/metroland-calendars",
       live: "http://3.147.94.95:3000/music-calendar",
