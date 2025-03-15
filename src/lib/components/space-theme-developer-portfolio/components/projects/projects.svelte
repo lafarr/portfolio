@@ -27,7 +27,7 @@
 			tech: ["Typescript", "Next.js", "Supabase", "PostgreSQL"],
 			github: "https://github.com/lafarr/max-lafarr",
 			live: "https://maxlafarr.com",
-			image: "https://cdn.pixabay.com/photo/2017/05/12/15/16/hexagon-2307350_960_720.png",
+			image: "https://cdn.pixabay.com/photo/2014/04/03/11/35/microphone-311918_960_720.png",
 		},
 		{
 			title: "hierarchy.nvim",
