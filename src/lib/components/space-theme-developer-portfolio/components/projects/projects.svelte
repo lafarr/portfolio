@@ -26,6 +26,7 @@
 				"A website for a young musician local to the Upstate NY area.",
 			tech: ["Typescript", "Next.js", "Supabase", "PostgreSQL"],
 			github: "https://github.com/lafarr/max-lafarr",
+			live: "https://maxlafarr.com",
 			image: "https://cdn.pixabay.com/photo/2017/05/12/15/16/hexagon-2307350_960_720.png",
 		},
 		{
