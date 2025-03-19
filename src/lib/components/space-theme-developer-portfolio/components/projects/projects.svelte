@@ -21,6 +21,14 @@
 
 	const projects: Project[] = [
 		{
+			title: "lazyrg",
+			description:
+				"A TUI-based utility that allows for interactive grepping (using ripgrep).",
+			tech: ["Go", "Bubbletea"],
+			github: "https://github.com/lafarr/lazyrg",
+			image: "https://cdn.pixabay.com/photo/2014/04/03/11/35/microphone-311918_960_720.png",
+		},
+		{
 			title: "Musician Website",
 			description:
 				"A website for a young musician local to the Upstate NY area.",
@@ -58,11 +66,6 @@
 			{#each projects as project}
 				<Card class="bg-black/50 backdrop-blur-sm">
 					<CardHeader>
-						<img
-							src={project.image}
-							alt={project.title}
-							class="mb-4 h-48 w-full rounded-lg object-contain"
-						/>
 						<CardTitle>{project.title}</CardTitle>
 						<CardDescription>{project.description}</CardDescription>
 					</CardHeader>
