@@ -21,6 +21,14 @@
 
 	const projects: Project[] = [
 		{
+			title: "lazyhttp",
+			description:
+				"A TUI-based utility that allows acts as an interactive HTTP client.",
+			tech: ["Go", "Bubbletea"],
+			github: "https://github.com/lafarr/lazyhttp",
+			image: "https://cdn.pixabay.com/photo/2014/04/03/11/35/microphone-311918_960_720.png",
+		},
+		{
 			title: "lazyrg",
 			description:
 				"A TUI-based utility that allows for interactive grepping (using ripgrep).",
