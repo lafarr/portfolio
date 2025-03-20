@@ -16,7 +16,6 @@
 		tech: string[];
 		github?: string;
 		live?: string;
-		image: string;
 	};
 
 	const projects: Project[] = [
@@ -26,7 +25,6 @@
 				"A TUI-based utility that allows acts as an interactive HTTP client.",
 			tech: ["Go", "Bubbletea"],
 			github: "https://github.com/lafarr/lazyhttp",
-			image: "https://cdn.pixabay.com/photo/2014/04/03/11/35/microphone-311918_960_720.png",
 		},
 		{
 			title: "lazyrg",
@@ -34,7 +32,6 @@
 				"A TUI-based utility that allows for interactive grepping (using ripgrep).",
 			tech: ["Go", "Bubbletea"],
 			github: "https://github.com/lafarr/lazyrg",
-			image: "https://cdn.pixabay.com/photo/2014/04/03/11/35/microphone-311918_960_720.png",
 		},
 		{
 			title: "Musician Website",
@@ -43,7 +40,6 @@
 			tech: ["Typescript", "Next.js", "Supabase", "PostgreSQL"],
 			github: "https://github.com/lafarr/max-lafarr",
 			live: "https://maxlafarr.com",
-			image: "https://cdn.pixabay.com/photo/2014/04/03/11/35/microphone-311918_960_720.png",
 		},
 		{
 			title: "hierarchy.nvim",
@@ -51,7 +47,6 @@
 				"A plugin for Neovim, which recursively displays the call stack; based on the call hierachy functionality in VS Code.",
 			tech: ["Lua"],
 			github: "https://github.com/lafarr/hierarchy.nvim",
-			image: "https://cdn.pixabay.com/photo/2017/05/12/15/16/hexagon-2307350_960_720.png",
 		},
 		{
 			title: "Metroland Events Calendars",
@@ -60,7 +55,6 @@
 			tech: ["Next.js", "TailwindCSS", "C#/ASP.NET", "MongoDB"],
 			github: "https://github.com/lafarr/metroland-calendars",
 			live: "http://3.147.94.95:3000/music-calendar",
-			image: "https://cdn.pixabay.com/photo/2016/07/31/20/54/calendar-1559935_960_720.png",
 		},
 	];
 </script>
